@@ -185,7 +185,7 @@
     width: 100%;
     padding: 10px;
     text-transform: capitalize;
-    font-size: 1.5rem;
+    font-size: 1.1rem;
   }
   
   .footer-wrapper {
@@ -204,56 +204,3 @@
     transform: translateY(-4px);
   }
 
-  /* POP
-=========================== */
-
- .pop-container{
-
-  background-color: #fff;
-  position:absolute;
-  top:50%;
-  left:50%;
-  transform: translate(-50%, -50%);
-  color:black;
-  display: flex;
-  width: 20rem;
-  height: 10rem;
-  font-family: "poppins",sans-serif;
-  align-items: center;
-  justify-content: space-between;
-  overflow: hidden;
- }
-
- .text {
-  width: 80%;
-
- }
-
- .cookie{
-  transform: scale(0.6);
-  overflow: visible;
- }
-
- .title{
-  font-size:1rem;
-  font-weight: lighter;
- }
-
- .describe{
-  font-weight: bold;
-  padding: 0.7rem;
-  font-size: 0.6rem;
-
- }
-
- button{
-
-  border-style: none;
-  padding:0.5rem 1rem;
-  color:#4f2626;
-  font-family: inherit;
-  font-size: 0.6rem;
-  font-weight: bold;
-  border-radius: 0.3rem;
-  cursor:pointer
- }
